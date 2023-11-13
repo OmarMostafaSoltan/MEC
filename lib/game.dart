@@ -15,7 +15,7 @@ class _MyAppState extends State<MyApp> {
 
 
   moveDow(){
-
+//tr876
     for(int i = 0; i < choosen.length; i++){
 
 
